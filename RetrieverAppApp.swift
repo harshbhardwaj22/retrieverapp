@@ -1,9 +1,3 @@
-//
-//  RetrieverAppApp.swift
-//  RetrieverApp
-//
-//  Created by Harsh Sharma on 05/03/24.
-//
 
 import SwiftUI
 import UIKit
